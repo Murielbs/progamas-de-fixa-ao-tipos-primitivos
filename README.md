@@ -1,4 +1,4 @@
-# progamas-de-fixa-ao-tipos-primitivos
+# progamas-de-fixa-ao-tipos-primitivos 
 // 1. Pegar o nome e a idade e exibir
 let nome = 'Muriel Bezerra';
 let idade = '19';
